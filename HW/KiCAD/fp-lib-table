@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Library_user")(type "KiCad")(uri "${KIPRJMOD}/Library_user.pretty")(options "")(descr ""))
+  (lib (name "KiCAD")(type "KiCad")(uri "D:/projects/pc/pc386/git/Kharon386mod/HW/KiCAD.pretty")(options "")(descr ""))
+)

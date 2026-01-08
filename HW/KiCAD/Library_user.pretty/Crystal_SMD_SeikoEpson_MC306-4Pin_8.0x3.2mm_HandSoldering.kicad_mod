@@ -1,0 +1,317 @@
+(footprint "Crystal_SMD_SeikoEpson_MC306-4Pin_8.0x3.2mm_HandSoldering"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "SMD Crystal Seiko Epson MC-306 https://support.epson.biz/td/api/doc_check.php?dl=brief_MC-306_en.pdf, hand-soldering, 8.0x3.2mm^2 package")
+	(tags "SMD SMT crystal hand-soldering")
+	(property "Reference" "REF**"
+		(at 5.1 0 90)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "8892f880-5afe-434c-9b25-841007bdf5e8")
+		(effects
+			(font
+				(size 1.1 0.8)
+				(thickness 0.14)
+			)
+		)
+	)
+	(property "Value" "32768 Hz"
+		(at 5.1 0.8 270)
+		(layer "F.Fab")
+		(uuid "aba8f38e-e8f2-42df-afa2-250d7f3193b3")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "aa777bf4-35af-420b-86af-99b867ba83ce")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "Four pin crystal, GND on pins 2 and 3"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a86f3b62-c0ac-4691-a719-90e8f520eb66")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -4.2 -1.8)
+		(end -3.73 -1.8)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "66936e09-0a78-44a4-b810-57bc04b90bda")
+	)
+	(fp_line
+		(start -4.2 -0.5)
+		(end -4.2 -1.8)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "274b0dd1-366c-475c-aec3-70c626471639")
+	)
+	(fp_line
+		(start -4.2 1.8)
+		(end -4.2 0.5)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "de3551d8-c736-4acf-b7fd-7aeb248c4abf")
+	)
+	(fp_line
+		(start -4.2 1.8)
+		(end -3.73 1.8)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "0c8059c6-61db-48e5-a177-3b7ca6110355")
+	)
+	(fp_line
+		(start -1.9 -1.8)
+		(end 1.9 -1.8)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "e7d9ea7b-97d9-4dd3-852a-9e9c3f34d870")
+	)
+	(fp_line
+		(start 1.9 1.8)
+		(end -1.9 1.8)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "6dfb5fea-890a-42e8-b75a-386fc9e8e980")
+	)
+	(fp_line
+		(start 3.73 -1.8)
+		(end 4.2 -1.8)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "20b17cd7-48d5-438f-8b15-d9cbde5d8848")
+	)
+	(fp_line
+		(start 4.2 -1.8)
+		(end 4.2 1.8)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "18fd5996-ba85-493d-ae78-9939dd65ab6b")
+	)
+	(fp_line
+		(start 4.2 1.8)
+		(end 3.73 1.8)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "d32c949c-d38c-468f-b38d-dbc5dfe2ad19")
+	)
+	(fp_arc
+		(start -4.2 -0.5)
+		(mid -3.7 0)
+		(end -4.2 0.5)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "c3e86cb8-a5c0-454b-83f8-256be597790e")
+	)
+	(fp_line
+		(start -4.3 -3.8)
+		(end -4.3 3.8)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "1bd5d18b-bc29-4a7f-a8c0-841edc83694f")
+	)
+	(fp_line
+		(start -4.3 3.8)
+		(end 4.3 3.8)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "c390ecdf-c8e9-45c4-9186-e9fc664f2a33")
+	)
+	(fp_line
+		(start 4.3 -3.8)
+		(end -4.3 -3.8)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "54e08bd1-48f7-48ff-9394-01339feab1ba")
+	)
+	(fp_line
+		(start 4.3 3.8)
+		(end 4.3 -3.8)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "a32441bc-5f49-409c-8194-f499d13c98cb")
+	)
+	(fp_line
+		(start -4 -1.6)
+		(end 4 -1.6)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "373fd843-5bcd-400e-97c4-b8f0b115fbed")
+	)
+	(fp_line
+		(start -4 -0.5)
+		(end -4 -1.6)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "920796bd-8b39-445c-9cda-d64ffbb6161c")
+	)
+	(fp_line
+		(start -4 1.6)
+		(end -4 0.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "0e2bb35b-a36d-440d-9f12-d07900e55bad")
+	)
+	(fp_line
+		(start 4 -1.6)
+		(end 4 1.6)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "c713991f-512a-4df1-8e6b-b360506906e2")
+	)
+	(fp_line
+		(start 4 1.6)
+		(end -4 1.6)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "5ac6f943-952e-4a6b-940a-2c72bfb13e4c")
+	)
+	(fp_arc
+		(start -4 -0.5)
+		(mid -3.5 0)
+		(end -4 0.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "0f3a5e81-4584-4ff1-8077-a11b67941061")
+	)
+	(fp_text user "${VALUE}"
+		(at 6.7 0 90)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "1682b04f-1dba-4721-a964-7d0e493b49a2")
+		(effects
+			(font
+				(size 1.1 0.8)
+				(thickness 0.14)
+			)
+		)
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 270)
+		(layer "F.Fab")
+		(uuid "28aea494-05d2-43d8-b8cc-7bb6b3423569")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at -2.815 2.075)
+		(size 1.43 2.85)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "a1649421-663a-43d1-b4e8-5ed4423dc967")
+	)
+	(pad "2" smd rect
+		(at 2.815 2.075)
+		(size 1.43 2.85)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "2307b601-2bd4-40fc-8401-32c231da22e9")
+	)
+	(pad "3" smd rect
+		(at 2.815 -2.075)
+		(size 1.43 2.85)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "2c9f86ba-dc9f-4c7b-9e03-de051b3e071d")
+	)
+	(pad "4" smd rect
+		(at -2.815 -2.075)
+		(size 1.43 2.85)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "e28cc28c-baff-4b57-880e-3e5aee829524")
+	)
+	(embedded_fonts no)
+	(model "${KICAD6_3DMODEL_DIR}/Crystal.3dshapes/Crystal_SMD_SeikoEpson_MA406-4Pin_11.7x4.0mm.wrl"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 0.6 1 0.6)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

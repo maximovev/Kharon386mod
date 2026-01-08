@@ -11124,7 +11124,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_RJ:RJ45_Bel_SI-60062-F"
+		(property "Footprint" "Connector_RJ:RJ45_Cetus_J1B1211CCD_Horizontal"
 			(at 259.08 33.655 90)
 			(effects
 				(font
@@ -11776,7 +11776,7 @@
 				)
 			)
 		)
-		(property "Footprint" "RTL8019AS:RTL8019AS"
+		(property "Footprint" "Library:RTL8019AS"
 			(at 152.4 101.6 0)
 			(effects
 				(font

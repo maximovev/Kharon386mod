@@ -1,0 +1,265 @@
+(footprint "Crystal_SMD_SeikoEpson_TSX3225-4Pin_3.2x2.5mm_HandSoldering"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "crystal Epson Toyocom TSX-3225 series https://support.epson.biz/td/api/doc_check.php?dl=brief_fa-238v_en.pdf, hand-soldering, 3.2x2.5mm^2 package")
+	(tags "SMD SMT crystal hand-soldering")
+	(property "Reference" "REF**"
+		(at 3.6 1.3875 90)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "06c98bf1-39c7-4fb9-9a14-a877a9361ea2")
+		(effects
+			(font
+				(size 1.1 0.8)
+				(thickness 0.14)
+			)
+		)
+	)
+	(property "Value" "12 MHz"
+		(at 2.8 -0.0125 270)
+		(layer "F.Fab")
+		(uuid "c2f4926d-893f-405e-adca-6fb1102deeef")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "fc41fce0-58aa-4a10-82ae-535a0fe4c416")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "Four pin crystal, GND on pins 2 and 4"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "6f01534c-ab93-43ff-8837-e87b1e8e503e")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -2.7 -2.15)
+		(end -2.7 2.15)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "90ba29f5-05da-4a73-a596-7e3b0a22d120")
+	)
+	(fp_line
+		(start -2.7 2.15)
+		(end 2.7 2.15)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "d95f1a6c-5a0d-4cc8-80d1-22e376e3101f")
+	)
+	(fp_line
+		(start -2.8 -2.2)
+		(end -2.8 2.2)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "517adfbe-c73e-4f4c-9fd1-a25263b146d8")
+	)
+	(fp_line
+		(start -2.8 2.2)
+		(end 2.8 2.2)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "af4158dc-551b-45cc-a16d-47fd0a8b1085")
+	)
+	(fp_line
+		(start 2.8 -2.2)
+		(end -2.8 -2.2)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "986f74d5-0dc3-4647-acbb-8aa7a898e7ad")
+	)
+	(fp_line
+		(start 2.8 2.2)
+		(end 2.8 -2.2)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "15306d63-db00-486a-af7a-ebe2677788b3")
+	)
+	(fp_line
+		(start -1.6 -1.15)
+		(end -1.5 -1.25)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "404c8ba9-e611-46da-afb4-b6e9f4436f75")
+	)
+	(fp_line
+		(start -1.6 0.25)
+		(end -0.6 1.25)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "fb15f00f-9146-4f74-9fe7-a6d43f5884a8")
+	)
+	(fp_line
+		(start -1.6 1.15)
+		(end -1.6 -1.15)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "d410fc6e-4191-48db-af41-653357dbbe48")
+	)
+	(fp_line
+		(start -1.5 -1.25)
+		(end 1.5 -1.25)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "fd52b99f-0917-4b8a-8056-b5f8d67cfb3a")
+	)
+	(fp_line
+		(start -1.5 1.25)
+		(end -1.6 1.15)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "8faaf5a4-e4cf-49a9-9f34-f67ad861b8e9")
+	)
+	(fp_line
+		(start 1.5 -1.25)
+		(end 1.6 -1.15)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "dda66038-d48e-4e06-a0f8-b88313d81e05")
+	)
+	(fp_line
+		(start 1.5 1.25)
+		(end -1.5 1.25)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "458bc525-c1c3-47a0-9707-037b7003248a")
+	)
+	(fp_line
+		(start 1.6 -1.15)
+		(end 1.6 1.15)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "ed1bda90-f4cf-4033-a322-04db812e2295")
+	)
+	(fp_line
+		(start 1.6 1.15)
+		(end 1.5 1.25)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "f23f0440-ba21-454c-b1a6-186201021ab9")
+	)
+	(fp_text user "${VALUE}"
+		(at 3.6 -2.2125 90)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "14da0ec0-a128-4a35-bf89-62f35b89ddaa")
+		(effects
+			(font
+				(size 1.1 0.8)
+				(thickness 0.14)
+			)
+		)
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 270)
+		(layer "F.Fab")
+		(uuid "75664c93-ea39-4593-a60b-39fbcb274f63")
+		(effects
+			(font
+				(size 0.7 0.7)
+				(thickness 0.105)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at -1.45 1.0875)
+		(size 2.1 1.725)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "5dd10c90-4665-40e8-8bea-ccec9e41d936")
+	)
+	(pad "2" smd rect
+		(at 1.45 1.0875)
+		(size 2.1 1.725)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "d96eb63c-7c00-47cb-9ad6-737f4bf30d8d")
+	)
+	(pad "3" smd rect
+		(at 1.45 -1.0875)
+		(size 2.1 1.725)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "c98d678d-d12b-44d3-91ff-51e328bfcc58")
+	)
+	(pad "4" smd rect
+		(at -1.45 -1.0875)
+		(size 2.1 1.725)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "13411715-030a-4f70-841c-44c78ee65a76")
+	)
+	(embedded_fonts no)
+	(model "${KICAD6_3DMODEL_DIR}/Crystal.3dshapes/Crystal_SMD_SeikoEpson_TSX3225-4Pin_3.2x2.5mm_HandSoldering.wrl"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

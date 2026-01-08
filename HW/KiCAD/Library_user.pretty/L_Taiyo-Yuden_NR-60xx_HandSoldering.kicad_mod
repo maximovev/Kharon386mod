@@ -1,0 +1,283 @@
+(footprint "L_Taiyo-Yuden_NR-60xx_HandSoldering"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "Inductor, Taiyo Yuden, NR series, Taiyo-Yuden_NR-60xx, 6.0mmx6.0mm")
+	(tags "inductor taiyo-yuden nr smd")
+	(property "Reference" "REF**"
+		(at 5.280953 -0.7 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "5cc7eaad-8b1f-418f-9037-1f229f25266e")
+		(effects
+			(font
+				(size 1.1 0.8)
+				(thickness 0.14)
+			)
+		)
+	)
+	(property "Value" "10u"
+		(at 0.1 1 0)
+		(layer "F.Fab")
+		(uuid "7cb2e7fb-c24f-43cc-ac40-297db8cd5e08")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "818731de-51fe-4de5-b6a2-1334db5b489c")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "Inductor"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "c46c0db3-78be-4548-bb6a-e7a7c0539359")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -4 -3.1)
+		(end 4 -3.1)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "f1565a18-45cb-4e64-8fff-9411b1db91b4")
+	)
+	(fp_line
+		(start -4 3.1)
+		(end 4 3.1)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "03c3a95b-fb11-43d6-aa95-baebcc8e75a3")
+	)
+	(fp_line
+		(start -4.25 -3.25)
+		(end -4.25 3.25)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "d4fbcf41-85dc-4a77-807a-43f149a05dc2")
+	)
+	(fp_line
+		(start -4.25 3.25)
+		(end 4.25 3.25)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "88e50192-4152-4d18-ae37-9a514e1e348c")
+	)
+	(fp_line
+		(start 4.25 -3.25)
+		(end -4.25 -3.25)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "9ea5c9f2-7703-4304-b319-9d6db44590b7")
+	)
+	(fp_line
+		(start 4.25 3.25)
+		(end 4.25 -3.25)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "0abf52bb-9589-4e5d-9b18-e72e8314e8eb")
+	)
+	(fp_line
+		(start -3 -2)
+		(end -2 -3)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "dac125d3-99d4-4cba-823a-7a965c04b00b")
+	)
+	(fp_line
+		(start -3 0)
+		(end -3 -2)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "979b687f-6ee3-4ffa-9c29-281cf0958623")
+	)
+	(fp_line
+		(start -3 0)
+		(end -3 2)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "4edfe8db-5e0b-4e18-968c-724ae77f8c41")
+	)
+	(fp_line
+		(start -3 2)
+		(end -2 3)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "40621214-0656-483b-a0cb-8610fae74cd4")
+	)
+	(fp_line
+		(start -2 -3)
+		(end 0 -3)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "045e4c42-f655-4275-9bec-abb01ad61699")
+	)
+	(fp_line
+		(start -2 3)
+		(end 0 3)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "7feffb0a-7579-423c-bd33-8e398029f328")
+	)
+	(fp_line
+		(start 2 -3)
+		(end 0 -3)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "308d8b64-79b3-49c6-94bd-4bf4f6f7608d")
+	)
+	(fp_line
+		(start 2 3)
+		(end 0 3)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "7fed6747-17cc-43e0-a8ff-fa3fdf4674da")
+	)
+	(fp_line
+		(start 3 -2)
+		(end 2 -3)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "1a63a3da-01ba-47f1-8c34-b99ee20b2d02")
+	)
+	(fp_line
+		(start 3 0)
+		(end 3 -2)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "14b15712-4300-41c0-a70f-567aa2805a3b")
+	)
+	(fp_line
+		(start 3 0)
+		(end 3 2)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "3196f01b-a341-497b-a5ee-3dba765c5c68")
+	)
+	(fp_line
+		(start 3 2)
+		(end 2 3)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "c058b5fb-6db7-403e-9c4a-87ebb715fb85")
+	)
+	(fp_text user "${VALUE}"
+		(at 5.7 0.7 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "7629d93c-fa88-44f3-94a4-f8498546aeef")
+		(effects
+			(font
+				(size 1.1 0.8)
+				(thickness 0.14)
+			)
+		)
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 -0.9 0)
+		(layer "F.Fab")
+		(uuid "91773527-4d5e-4d98-985a-d487ce254bb9")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at -2.775 0)
+		(size 2.45 5.9)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "e465678e-7edb-47b2-9d82-d6893ee8c67e")
+	)
+	(pad "2" smd rect
+		(at 2.775 0)
+		(size 2.45 5.9)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "f7018f5a-c90b-49a4-896a-2d141201df85")
+	)
+	(embedded_fonts no)
+	(model "${KICAD6_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_Bourns_SRN6045TA.wrl"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

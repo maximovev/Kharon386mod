@@ -45595,7 +45595,7 @@
 				)
 			)
 		)
-		(property "Footprint" "my:TE_1734451-1-LONG"
+		(property "Footprint" "Library:TE_1734451-1"
 			(at 233.172 69.85 0)
 			(effects
 				(font
@@ -46858,7 +46858,7 @@
 				)
 			)
 		)
-		(property "Footprint" "my:PLCC-32_11.4x14.0mm_P1.27mm-longpads"
+		(property "Footprint" "Library_user:PLCC-32_11.4x14.0mm_P1.27mm-longpads"
 			(at 542.29 236.22 0)
 			(effects
 				(font
@@ -47479,7 +47479,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_Tantalum_SMD:CP_EIA-7343-31_Kemet-D_Pad2.25x2.55mm_HandSolder"
+		(property "Footprint" "Capacitor_Tantalum_SMD:CP_EIA-7343-31_Kemet-D_HandSolder"
 			(at 411.1752 -17.78 0)
 			(effects
 				(font
@@ -48998,7 +48998,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "my:CR2032V"
+		(property "Footprint" "Battery:BatteryHolder_MYOUNG_BS-07-A1BJ001_CR2032"
 			(at 566.42 40.386 90)
 			(effects
 				(font
@@ -49155,7 +49155,7 @@
 				)
 			)
 		)
-		(property "Footprint" "my:SOJ-42"
+		(property "Footprint" "Library_user:SOJ-42"
 			(at 137.16 358.14 0)
 			(effects
 				(font
@@ -50368,7 +50368,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "my:MountingHole_3.2mm_M3_dk5.2mm_Mask"
+		(property "Footprint" "Library_user:MountingHole_3.2mm_M3_dk5.2mm_Mask"
 			(at 552.45 293.37 0)
 			(effects
 				(font
@@ -50897,7 +50897,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "my:MountingHole_3.2mm_M3_dk5.2mm_Mask"
+		(property "Footprint" "Library_user:MountingHole_3.2mm_M3_dk5.2mm_Mask"
 			(at 552.45 298.45 0)
 			(effects
 				(font
@@ -51904,7 +51904,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "my:MountingHole_3.2mm_M3_dk5.2mm_Mask"
+		(property "Footprint" "Library_user:MountingHole_3.2mm_M3_dk5.2mm_Mask"
 			(at 552.45 303.53 0)
 			(effects
 				(font
@@ -53259,7 +53259,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "my:Oscillator_SMD_7050_7.0x5.0mm"
+		(property "Footprint" "Oscillator:Oscillator_SMD_Abracon_ASE-4Pin_3.2x2.5mm_HandSoldering"
 			(at 233.68 223.52 0)
 			(effects
 				(font
@@ -55031,7 +55031,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_Tantalum_SMD:CP_EIA-3528-21_Kemet-B_Pad1.50x2.35mm_HandSolder"
+		(property "Footprint" "Capacitor_Tantalum_SMD:CP_EIA-3528-21_Kemet-B_HandSolder"
 			(at 563.5752 90.17 0)
 			(effects
 				(font
@@ -55869,7 +55869,7 @@
 				)
 			)
 		)
-		(property "Footprint" "my:minidin-6"
+		(property "Footprint" "Library_user:minidin-6"
 			(at 560.07 171.45 0)
 			(effects
 				(font
@@ -59057,7 +59057,7 @@
 				)
 			)
 		)
-		(property "Footprint" "my:minidin-6"
+		(property "Footprint" "Library_user:minidin-6"
 			(at 560.07 133.35 0)
 			(effects
 				(font
@@ -59138,7 +59138,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_Tantalum_SMD:CP_EIA-3528-21_Kemet-B_Pad1.50x2.35mm_HandSolder"
+		(property "Footprint" "Capacitor_Tantalum_SMD:CP_EIA-3528-21_Kemet-B_HandSolder"
 			(at 540.7152 39.37 0)
 			(effects
 				(font
@@ -60306,7 +60306,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "my:MountingHole_3.2mm_M3_dk5.2mm_Mask"
+		(property "Footprint" "Library_user:MountingHole_3.2mm_M3_dk5.2mm_Mask"
 			(at 552.45 288.29 0)
 			(effects
 				(font
@@ -61657,7 +61657,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "my:Oscillator_SMD_7050_7.0x5.0mm"
+		(property "Footprint" "Oscillator:Oscillator_SMD_Abracon_ASE-4Pin_3.2x2.5mm_HandSoldering"
 			(at 233.68 199.39 0)
 			(effects
 				(font
@@ -62727,7 +62727,7 @@
 				)
 			)
 		)
-		(property "Footprint" "my:SOJ-42"
+		(property "Footprint" "Library_user:SOJ-42"
 			(at 260.35 358.14 0)
 			(effects
 				(font
@@ -62980,7 +62980,7 @@
 				)
 			)
 		)
-		(property "Footprint" "my:SOJ-42"
+		(property "Footprint" "Library_user:SOJ-42"
 			(at 73.66 358.14 0)
 			(effects
 				(font
@@ -64742,7 +64742,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_Tantalum_SMD:CP_EIA-3528-21_Kemet-B_Pad1.50x2.35mm_HandSolder"
+		(property "Footprint" "Capacitor_Tantalum_SMD:CP_EIA-3528-21_Kemet-B_HandSolder"
 			(at 555.9552 97.79 0)
 			(effects
 				(font
@@ -65220,7 +65220,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "my:Oscillator_SMD_7050_7.0x5.0mm"
+		(property "Footprint" "Oscillator:Oscillator_SMD_Abracon_ASV-4Pin_7.0x5.1mm_HandSoldering"
 			(at 309.88 276.86 0)
 			(effects
 				(font
@@ -66161,7 +66161,7 @@
 				)
 			)
 		)
-		(property "Footprint" "my:SOJ-42"
+		(property "Footprint" "Library_user:SOJ-42"
 			(at 196.85 358.14 0)
 			(effects
 				(font
@@ -68674,7 +68674,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "mygraphic:black-mage-12.5x8.6"
+		(property "Footprint" "Library_user:black-mage-12.5x8.6"
 			(at 523.24 301.625 0)
 			(effects
 				(font

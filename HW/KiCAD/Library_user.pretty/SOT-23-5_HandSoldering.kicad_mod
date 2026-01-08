@@ -1,0 +1,233 @@
+(footprint "SOT-23-5_HandSoldering"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "5-pin SOT23 package")
+	(tags "SOT-23-5 hand-soldering")
+	(property "Reference" "REF**"
+		(at -1.6 2.7 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "f57b4762-5b45-427e-ada7-6c617bb50043")
+		(effects
+			(font
+				(size 1.1 0.8)
+				(thickness 0.14)
+			)
+		)
+	)
+	(property "Value" "LMR62014"
+		(at 1.6 0.9 90)
+		(layer "F.Fab")
+		(uuid "49e05739-8575-4612-b322-04d4014f5029")
+		(effects
+			(font
+				(size 1 0.95)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 180)
+		(layer "B.Fab")
+		(hide yes)
+		(uuid "c3f9a089-0cef-4525-9dc2-2f91e34a7ec3")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+			(justify mirror)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 180)
+		(layer "B.Fab")
+		(hide yes)
+		(uuid "12bd4125-4018-413a-ac83-1dd0e3b75bba")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+			(justify mirror)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -0.9 1.61)
+		(end 0.9 1.61)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "cbf94309-7a18-4a13-8fd4-ac7f335261d1")
+	)
+	(fp_line
+		(start 0.9 -1.61)
+		(end -1.55 -1.61)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "345eda54-52fa-4710-af92-494f08787b11")
+	)
+	(fp_line
+		(start -2.38 -1.8)
+		(end -2.38 1.8)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "10e2144e-0616-43fa-97e9-3331bb14d9e5")
+	)
+	(fp_line
+		(start -2.38 -1.8)
+		(end 2.38 -1.8)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "b51ab1dd-9a30-444e-9456-ea6453176ed0")
+	)
+	(fp_line
+		(start 2.38 1.8)
+		(end -2.38 1.8)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "da30fc1e-8706-42d9-83a7-be8979fca72e")
+	)
+	(fp_line
+		(start 2.38 1.8)
+		(end 2.38 -1.8)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "e5620e26-d5c9-4876-9601-c93d8ed45857")
+	)
+	(fp_line
+		(start -0.9 -0.9)
+		(end -0.9 1.55)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "bf0c68fb-2f31-46b8-b74a-04dbe910b1b5")
+	)
+	(fp_line
+		(start -0.9 -0.9)
+		(end -0.25 -1.55)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "27f92a1f-c8e2-4309-8cea-7e7ad2bc3472")
+	)
+	(fp_line
+		(start 0.9 -1.55)
+		(end -0.25 -1.55)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "6dfca39c-ca3a-411c-93a3-6bb57a0ece22")
+	)
+	(fp_line
+		(start 0.9 -1.55)
+		(end 0.9 1.55)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "a98cb290-bb31-43ff-b18b-1b681402cc35")
+	)
+	(fp_line
+		(start 0.9 1.55)
+		(end -0.9 1.55)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "b0807e9d-e177-4471-9945-2890265cbacb")
+	)
+	(fp_text user "${VALUE}"
+		(at 2.8 2.7 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "c03c883f-55e2-4f02-b10f-c7dbf60b62e4")
+		(effects
+			(font
+				(size 1.1 0.8)
+				(thickness 0.14)
+			)
+		)
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 -90)
+		(layer "F.Fab")
+		(uuid "890845be-0d60-4548-a9f9-cdcf045f5f1d")
+		(effects
+			(font
+				(size 0.5 0.5)
+				(thickness 0.075)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at -1.35 -0.95)
+		(size 1.56 0.65)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "a9424889-8527-4e73-82ab-249b0fb7b0db")
+	)
+	(pad "2" smd rect
+		(at -1.35 0)
+		(size 1.56 0.65)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "9ab7994b-6f09-4bcf-a49e-77bdfb67f4db")
+	)
+	(pad "3" smd rect
+		(at -1.35 0.95)
+		(size 1.56 0.65)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "2079b484-7dc1-469e-ba9c-4f7a4777fe98")
+	)
+	(pad "4" smd rect
+		(at 1.35 0.95)
+		(size 1.56 0.65)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "7dc2d44f-c217-4472-838e-596699d38df8")
+	)
+	(pad "5" smd rect
+		(at 1.35 -0.95)
+		(size 1.56 0.65)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "3cca597b-ae8b-4765-9b1b-48799c3a3383")
+	)
+	(embedded_fonts no)
+	(model "${KICAD6_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SOT-23-5.wrl"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)
