@@ -629,6 +629,26 @@
     [
       "523f9a2f-ddd1-4c6e-b1cf-fbf0997bf88b",
       "ISA_VGA_SB"
+    ],
+    [
+      "f9c7dc96-c753-4965-8b1c-d3dfe3e324c8",
+      "LPF"
+    ],
+    [
+      "3dc02190-d857-47a4-b471-6d794dcdeda8",
+      "LPF1"
+    ],
+    [
+      "fc8bcd3b-eaa4-4439-8bca-404c3f42bfea",
+      "LPF2"
+    ],
+    [
+      "2161e727-be05-4d22-a1ee-107ae8e144ed",
+      "LPF3"
+    ],
+    [
+      "7af472cf-3fd2-4e4b-b7f3-feb3f131a7f1",
+      "AnalogSumm2CH"
     ]
   ],
   "text_variables": {}
