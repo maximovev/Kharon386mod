@@ -11776,7 +11776,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:RTL8019AS"
+		(property "Footprint" "kharon:RTL8019AS"
 			(at 152.4 101.6 0)
 			(effects
 				(font

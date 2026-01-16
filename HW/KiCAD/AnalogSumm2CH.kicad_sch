@@ -1920,7 +1920,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "04553f3c-cb93-4fa4-87f0-bece0dbc3837")
-		(property "Reference" "L24"
+		(property "Reference" "L23"
 			(at 35.56 40.64 90)
 			(effects
 				(font
@@ -1972,7 +1972,7 @@
 		(instances
 			(project "kharon386mod_by_maxssau"
 				(path "/48e19dd7-3c62-4fd7-8a3b-78a40c79d086/523f9a2f-ddd1-4c6e-b1cf-fbf0997bf88b/7af472cf-3fd2-4e4b-b7f3-feb3f131a7f1"
-					(reference "L24")
+					(reference "L23")
 					(unit 1)
 				)
 			)
@@ -1988,7 +1988,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "07fa63a4-faaa-4195-a34c-528234245742")
-		(property "Reference" "R188"
+		(property "Reference" "R177"
 			(at 58.42 39.37 90)
 			(effects
 				(font
@@ -2040,7 +2040,7 @@
 		(instances
 			(project "kharon386mod_by_maxssau"
 				(path "/48e19dd7-3c62-4fd7-8a3b-78a40c79d086/523f9a2f-ddd1-4c6e-b1cf-fbf0997bf88b/7af472cf-3fd2-4e4b-b7f3-feb3f131a7f1"
-					(reference "R188")
+					(reference "R177")
 					(unit 1)
 				)
 			)
@@ -2056,7 +2056,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "14b7f4eb-c7ca-40d2-9fb0-3b9574a1dcb3")
-		(property "Reference" "R193"
+		(property "Reference" "R176"
 			(at 45.72 105.41 90)
 			(effects
 				(font
@@ -2108,7 +2108,7 @@
 		(instances
 			(project "kharon386mod_by_maxssau"
 				(path "/48e19dd7-3c62-4fd7-8a3b-78a40c79d086/523f9a2f-ddd1-4c6e-b1cf-fbf0997bf88b/7af472cf-3fd2-4e4b-b7f3-feb3f131a7f1"
-					(reference "R193")
+					(reference "R176")
 					(unit 1)
 				)
 			)
@@ -2124,7 +2124,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "1d68e315-76d7-48df-8f79-e86b2d25eb32")
-		(property "Reference" "U45"
+		(property "Reference" "U36"
 			(at 207.0101 111.76 90)
 			(effects
 				(font
@@ -2196,7 +2196,7 @@
 		(instances
 			(project ""
 				(path "/48e19dd7-3c62-4fd7-8a3b-78a40c79d086/523f9a2f-ddd1-4c6e-b1cf-fbf0997bf88b/7af472cf-3fd2-4e4b-b7f3-feb3f131a7f1"
-					(reference "U45")
+					(reference "U36")
 					(unit 2)
 				)
 			)
@@ -2212,7 +2212,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1ea703d9-9c24-45ea-aeb1-13a1719f5a70")
-		(property "Reference" "C203"
+		(property "Reference" "C194"
 			(at 49.53 48.2599 0)
 			(effects
 				(font
@@ -2266,7 +2266,7 @@
 		(instances
 			(project "kharon386mod_by_maxssau"
 				(path "/48e19dd7-3c62-4fd7-8a3b-78a40c79d086/523f9a2f-ddd1-4c6e-b1cf-fbf0997bf88b/7af472cf-3fd2-4e4b-b7f3-feb3f131a7f1"
-					(reference "C203")
+					(reference "C194")
 					(unit 1)
 				)
 			)
@@ -2282,7 +2282,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2426892f-383f-4ea3-b0a2-c0827b5209b8")
-		(property "Reference" "R198"
+		(property "Reference" "R185"
 			(at 189.23 129.54 90)
 			(effects
 				(font
@@ -2334,7 +2334,7 @@
 		(instances
 			(project "kharon386mod_by_maxssau"
 				(path "/48e19dd7-3c62-4fd7-8a3b-78a40c79d086/523f9a2f-ddd1-4c6e-b1cf-fbf0997bf88b/7af472cf-3fd2-4e4b-b7f3-feb3f131a7f1"
-					(reference "R198")
+					(reference "R185")
 					(unit 1)
 				)
 			)
@@ -2350,7 +2350,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "25a7b384-e5d7-407e-8856-5ae6780d1eec")
-		(property "Reference" "R186"
+		(property "Reference" "R173"
 			(at 35.56 46.99 90)
 			(effects
 				(font
@@ -2402,7 +2402,7 @@
 		(instances
 			(project "kharon386mod_by_maxssau"
 				(path "/48e19dd7-3c62-4fd7-8a3b-78a40c79d086/523f9a2f-ddd1-4c6e-b1cf-fbf0997bf88b/7af472cf-3fd2-4e4b-b7f3-feb3f131a7f1"
-					(reference "R186")
+					(reference "R173")
 					(unit 1)
 				)
 			)
@@ -2418,7 +2418,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "413425ac-73cf-4d0a-b10a-e171094fb4bd")
-		(property "Reference" "R195"
+		(property "Reference" "R179"
 			(at 68.58 132.08 90)
 			(effects
 				(font
@@ -2470,7 +2470,7 @@
 		(instances
 			(project "kharon386mod_by_maxssau"
 				(path "/48e19dd7-3c62-4fd7-8a3b-78a40c79d086/523f9a2f-ddd1-4c6e-b1cf-fbf0997bf88b/7af472cf-3fd2-4e4b-b7f3-feb3f131a7f1"
-					(reference "R195")
+					(reference "R179")
 					(unit 1)
 				)
 			)
@@ -2486,7 +2486,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4cf4e548-c456-4917-b470-c32c11c2fe82")
-		(property "Reference" "R200"
+		(property "Reference" "R187"
 			(at 205.74 129.54 90)
 			(effects
 				(font
@@ -2538,7 +2538,7 @@
 		(instances
 			(project "kharon386mod_by_maxssau"
 				(path "/48e19dd7-3c62-4fd7-8a3b-78a40c79d086/523f9a2f-ddd1-4c6e-b1cf-fbf0997bf88b/7af472cf-3fd2-4e4b-b7f3-feb3f131a7f1"
-					(reference "R200")
+					(reference "R187")
 					(unit 1)
 				)
 			)
@@ -2554,7 +2554,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "560d711d-cc7b-4aed-ae9e-38c71d7d1f43")
-		(property "Reference" "R194"
+		(property "Reference" "R181"
 			(at 85.09 132.08 90)
 			(effects
 				(font
@@ -2606,7 +2606,7 @@
 		(instances
 			(project "kharon386mod_by_maxssau"
 				(path "/48e19dd7-3c62-4fd7-8a3b-78a40c79d086/523f9a2f-ddd1-4c6e-b1cf-fbf0997bf88b/7af472cf-3fd2-4e4b-b7f3-feb3f131a7f1"
-					(reference "R194")
+					(reference "R181")
 					(unit 1)
 				)
 			)
@@ -2622,7 +2622,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "706d2954-3963-4eba-9cc7-3d9ef75c04d6")
-		(property "Reference" "R197"
+		(property "Reference" "R184"
 			(at 166.37 102.87 90)
 			(effects
 				(font
@@ -2674,7 +2674,7 @@
 		(instances
 			(project "kharon386mod_by_maxssau"
 				(path "/48e19dd7-3c62-4fd7-8a3b-78a40c79d086/523f9a2f-ddd1-4c6e-b1cf-fbf0997bf88b/7af472cf-3fd2-4e4b-b7f3-feb3f131a7f1"
-					(reference "R197")
+					(reference "R184")
 					(unit 1)
 				)
 			)
@@ -2690,7 +2690,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "92d09c71-504c-4685-be7b-74993d0ca4e5")
-		(property "Reference" "R190"
+		(property "Reference" "R180"
 			(at 82.55 95.25 90)
 			(effects
 				(font
@@ -2742,7 +2742,7 @@
 		(instances
 			(project "kharon386mod_by_maxssau"
 				(path "/48e19dd7-3c62-4fd7-8a3b-78a40c79d086/523f9a2f-ddd1-4c6e-b1cf-fbf0997bf88b/7af472cf-3fd2-4e4b-b7f3-feb3f131a7f1"
-					(reference "R190")
+					(reference "R180")
 					(unit 1)
 				)
 			)
@@ -2758,7 +2758,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "95d6a884-cf51-4b2f-b659-055d91925957")
-		(property "Reference" "C206"
+		(property "Reference" "C197"
 			(at 76.2 66.0399 0)
 			(effects
 				(font
@@ -2812,7 +2812,7 @@
 		(instances
 			(project "kharon386mod_by_maxssau"
 				(path "/48e19dd7-3c62-4fd7-8a3b-78a40c79d086/523f9a2f-ddd1-4c6e-b1cf-fbf0997bf88b/7af472cf-3fd2-4e4b-b7f3-feb3f131a7f1"
-					(reference "C206")
+					(reference "C197")
 					(unit 1)
 				)
 			)
@@ -2828,7 +2828,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9d863ec0-62f7-4030-a9bd-b41829d7be07")
-		(property "Reference" "R187"
+		(property "Reference" "R174"
 			(at 39.37 64.77 90)
 			(effects
 				(font
@@ -2880,7 +2880,7 @@
 		(instances
 			(project "kharon386mod_by_maxssau"
 				(path "/48e19dd7-3c62-4fd7-8a3b-78a40c79d086/523f9a2f-ddd1-4c6e-b1cf-fbf0997bf88b/7af472cf-3fd2-4e4b-b7f3-feb3f131a7f1"
-					(reference "R187")
+					(reference "R174")
 					(unit 1)
 				)
 			)
@@ -2896,7 +2896,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9e33c840-a25e-4f2a-897f-5c6a7618a3ad")
-		(property "Reference" "R189"
+		(property "Reference" "R178"
 			(at 60.96 57.15 90)
 			(effects
 				(font
@@ -2948,7 +2948,7 @@
 		(instances
 			(project "kharon386mod_by_maxssau"
 				(path "/48e19dd7-3c62-4fd7-8a3b-78a40c79d086/523f9a2f-ddd1-4c6e-b1cf-fbf0997bf88b/7af472cf-3fd2-4e4b-b7f3-feb3f131a7f1"
-					(reference "R189")
+					(reference "R178")
 					(unit 1)
 				)
 			)
@@ -2964,7 +2964,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a592a55c-ae7d-44ee-9e97-8997f3be9854")
-		(property "Reference" "C204"
+		(property "Reference" "C195"
 			(at 53.34 66.0399 0)
 			(effects
 				(font
@@ -3018,7 +3018,7 @@
 		(instances
 			(project "kharon386mod_by_maxssau"
 				(path "/48e19dd7-3c62-4fd7-8a3b-78a40c79d086/523f9a2f-ddd1-4c6e-b1cf-fbf0997bf88b/7af472cf-3fd2-4e4b-b7f3-feb3f131a7f1"
-					(reference "C204")
+					(reference "C195")
 					(unit 1)
 				)
 			)
@@ -3034,7 +3034,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a810a930-ee26-453c-adc1-3e4f928ab6be")
-		(property "Reference" "U41"
+		(property "Reference" "U35"
 			(at 34.29 165.0999 0)
 			(effects
 				(font
@@ -3106,7 +3106,7 @@
 		(instances
 			(project ""
 				(path "/48e19dd7-3c62-4fd7-8a3b-78a40c79d086/523f9a2f-ddd1-4c6e-b1cf-fbf0997bf88b/7af472cf-3fd2-4e4b-b7f3-feb3f131a7f1"
-					(reference "U41")
+					(reference "U35")
 					(unit 3)
 				)
 			)
@@ -3122,7 +3122,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b46a0127-fdbc-4bb1-81b5-09efee747500")
-		(property "Reference" "L25"
+		(property "Reference" "L24"
 			(at 39.37 58.42 90)
 			(effects
 				(font
@@ -3174,7 +3174,7 @@
 		(instances
 			(project "kharon386mod_by_maxssau"
 				(path "/48e19dd7-3c62-4fd7-8a3b-78a40c79d086/523f9a2f-ddd1-4c6e-b1cf-fbf0997bf88b/7af472cf-3fd2-4e4b-b7f3-feb3f131a7f1"
-					(reference "L25")
+					(reference "L24")
 					(unit 1)
 				)
 			)
@@ -3190,7 +3190,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "cd48f65d-f347-4d95-8092-b91e5f483017")
-		(property "Reference" "R191"
+		(property "Reference" "R182"
 			(at 114.3 114.3 90)
 			(effects
 				(font
@@ -3242,7 +3242,7 @@
 		(instances
 			(project "kharon386mod_by_maxssau"
 				(path "/48e19dd7-3c62-4fd7-8a3b-78a40c79d086/523f9a2f-ddd1-4c6e-b1cf-fbf0997bf88b/7af472cf-3fd2-4e4b-b7f3-feb3f131a7f1"
-					(reference "R191")
+					(reference "R182")
 					(unit 1)
 				)
 			)
@@ -3258,7 +3258,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "dc848d7b-3176-4bb5-9d17-46e8cce54aff")
-		(property "Reference" "R199"
+		(property "Reference" "R186"
 			(at 203.2 92.71 90)
 			(effects
 				(font
@@ -3310,7 +3310,7 @@
 		(instances
 			(project "kharon386mod_by_maxssau"
 				(path "/48e19dd7-3c62-4fd7-8a3b-78a40c79d086/523f9a2f-ddd1-4c6e-b1cf-fbf0997bf88b/7af472cf-3fd2-4e4b-b7f3-feb3f131a7f1"
-					(reference "R199")
+					(reference "R186")
 					(unit 1)
 				)
 			)
@@ -3326,7 +3326,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "decb5026-2ec3-4c86-927e-b5e05cac77e5")
-		(property "Reference" "R196"
+		(property "Reference" "R183"
 			(at 166.37 92.71 90)
 			(effects
 				(font
@@ -3378,7 +3378,7 @@
 		(instances
 			(project "kharon386mod_by_maxssau"
 				(path "/48e19dd7-3c62-4fd7-8a3b-78a40c79d086/523f9a2f-ddd1-4c6e-b1cf-fbf0997bf88b/7af472cf-3fd2-4e4b-b7f3-feb3f131a7f1"
-					(reference "R196")
+					(reference "R183")
 					(unit 1)
 				)
 			)
@@ -3394,7 +3394,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "eaefa465-e73d-4177-a015-1977117d6a39")
-		(property "Reference" "R201"
+		(property "Reference" "R188"
 			(at 234.95 111.76 90)
 			(effects
 				(font
@@ -3446,7 +3446,7 @@
 		(instances
 			(project "kharon386mod_by_maxssau"
 				(path "/48e19dd7-3c62-4fd7-8a3b-78a40c79d086/523f9a2f-ddd1-4c6e-b1cf-fbf0997bf88b/7af472cf-3fd2-4e4b-b7f3-feb3f131a7f1"
-					(reference "R201")
+					(reference "R188")
 					(unit 1)
 				)
 			)
@@ -3462,7 +3462,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ee4bf213-cdef-49cb-9542-a40f53a196d5")
-		(property "Reference" "R192"
+		(property "Reference" "R175"
 			(at 45.72 95.25 90)
 			(effects
 				(font
@@ -3514,7 +3514,7 @@
 		(instances
 			(project "kharon386mod_by_maxssau"
 				(path "/48e19dd7-3c62-4fd7-8a3b-78a40c79d086/523f9a2f-ddd1-4c6e-b1cf-fbf0997bf88b/7af472cf-3fd2-4e4b-b7f3-feb3f131a7f1"
-					(reference "R192")
+					(reference "R175")
 					(unit 1)
 				)
 			)
@@ -3530,7 +3530,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "f24b076f-61c4-4933-8503-e434870efd4d")
-		(property "Reference" "U41"
+		(property "Reference" "U37"
 			(at 86.3601 114.3 90)
 			(effects
 				(font
@@ -3602,7 +3602,7 @@
 		(instances
 			(project ""
 				(path "/48e19dd7-3c62-4fd7-8a3b-78a40c79d086/523f9a2f-ddd1-4c6e-b1cf-fbf0997bf88b/7af472cf-3fd2-4e4b-b7f3-feb3f131a7f1"
-					(reference "U41")
+					(reference "U37")
 					(unit 1)
 				)
 			)
@@ -3618,7 +3618,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f3b23f86-f56d-4c0c-8626-1a5f5903ae27")
-		(property "Reference" "C205"
+		(property "Reference" "C196"
 			(at 71.12 48.2599 0)
 			(effects
 				(font
@@ -3672,7 +3672,7 @@
 		(instances
 			(project "kharon386mod_by_maxssau"
 				(path "/48e19dd7-3c62-4fd7-8a3b-78a40c79d086/523f9a2f-ddd1-4c6e-b1cf-fbf0997bf88b/7af472cf-3fd2-4e4b-b7f3-feb3f131a7f1"
-					(reference "C205")
+					(reference "C196")
 					(unit 1)
 				)
 			)

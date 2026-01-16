@@ -7131,7 +7131,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Library:SOP28-LL"
+		(property "Footprint" "kharon:SOP28-LL"
 			(at 140.97 116.84 0)
 			(effects
 				(font
