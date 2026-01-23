@@ -649,6 +649,14 @@
     [
       "7af472cf-3fd2-4e4b-b7f3-feb3f131a7f1",
       "AnalogSumm2CH"
+    ],
+    [
+      "03b88e23-a5f7-4681-a152-ae48b9e45413",
+      "PS"
+    ],
+    [
+      "fc8804ec-5772-46c1-acee-e7b7f1591029",
+      "HPAmp"
     ]
   ],
   "text_variables": {}
